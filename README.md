@@ -53,8 +53,8 @@
 
 - **[IoT Weather Monitoring System]** — Real-time weather data collection and monitoring using ESP32 and sensor integration
 - **[Smart Home Automation]** — ESP32-based home automation system
-- **[Editkaro.in-Portfolio-Website]**(https://prasad-telkar.github.io/Editkaro.in-Portfolio-Website/) — A responsive and interactive portfolio website for Editkaro.in, showcasing video editing and social media marketing projects. Built with HTML, CSS, and JavaScript, featuring category-based filtering, modern UI, animations, and mobile-friendly design
-- **[Sensor Monitoring Dashboard]([https://github.com/Prasad-Telkar/sensor-monitoring-dashboard](https://prasad-telkar.github.io/sensor-monitoring-dashboard/))** — A futuristic IoT telemetry dashboard built with HTML, CSS, and JavaScript
+- **[Editkaro.in-Portfolio-Website](https://prasad-telkar.github.io/Editkaro.in-Portfolio-Website/)** — A responsive and interactive portfolio website for Editkaro.in, showcasing video editing and social media marketing projects. Built with HTML, CSS, and JavaScript, featuring category-based filtering, modern UI, animations, and mobile-friendly design
+- **[Sensor Monitoring Dashboard](https://prasad-telkar.github.io/sensor-monitoring-dashboard/)** — A futuristic IoT telemetry dashboard built with HTML, CSS, and JavaScript
 - **[Interactive Resume Builder](https://github.com/Prasad-Telkar/RESUME-BUILDER)** — Responsive resume builder web app with real-time preview, built with HTML, CSS, and JavaScript
 - **[Personal Portfolio](https://github.com/Prasad-Telkar/MY-PORTFOLIO)** — Personal portfolio website showcasing my background, skills, and projects
 - **Custom PCB Design** — Designed and laid out custom PCBs using KiCad
