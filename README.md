@@ -63,5 +63,5 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=Prasad-Telkar&show_icons=true&theme=default" alt="Prasad's GitHub stats" height="165"/> <img src="https://streak-stats.demolab.com/?user=Prasad-Telkar&theme=default" alt="Prasad's GitHub streak" height="165"/> </p> <p align="center"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prasad-Telkar&layout=compact&theme=default" alt="Top Languages" height="165"/> </p>
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=Prasad-Telkar&show_icons=true&theme=default" alt="Prasad's GitHub stats" height="165"/> <img src="https://github-readme-streak-stats-eight.vercel.app?user=Prasad-Telkar&theme=default" alt="Prasad's GitHub streak" height="165"/> </p> <p align="center"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Prasad-Telkar&layout=compact&theme=default" alt="Top Languages" height="165"/> </p>
 <p align="center"><i>Thanks for stopping by! Feel free to connect or check out my repositories.</i></p>
