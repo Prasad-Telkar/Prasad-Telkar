@@ -6,7 +6,7 @@
   <a href="mailto:Prasadkumbar784@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-- 🎓 Pre-final year ECE student at **Goa College of Engineering**, graduating 2027
+- 🎓 Final year ECE student at **Goa College of Engineering**, graduating 2027
 - 💻 **Web Developer Intern @ [Vault of Codes](#)** — building responsive, real-world web applications
 - 🔭 Currently building projects across **embedded systems/IoT** and **web development**
 - 🌱 Learning **FreeRTOS, MQTT, and modern JavaScript**
