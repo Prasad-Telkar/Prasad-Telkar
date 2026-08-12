@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
-**Frontend Development**
+**Frontend Developer**
 <p> <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/></p>
 
 **Tools**
