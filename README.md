@@ -7,7 +7,7 @@
 </p>
 
 - 🎓 Final year ECE student at **Goa College of Engineering**, graduating 2027
-- 💻 **Web Developer Intern @ [Vault of Codes](#)[Persistent system](#)Fluxatic™ Global (#)** — building responsive, real-world web applications
+- 💻 **Web Developer Intern @ [Vault of Codes](#) [Persistent system](#) [Fluxatic™ Global](#)** — building responsive, real-world web applications
 - 🔭 Currently building projects across **embedded systems/IoT** and **web development**
 - 🌱 Learning **FreeRTOS, MQTT, and modern JavaScript**
 - 💡 Hands-on with **ESP32, Arduino, KiCad PCB design, Embedded C, Python, HTML/CSS/JS**
